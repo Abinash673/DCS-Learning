@@ -17,7 +17,7 @@ import {
 import ShoppingBagIcon from "@mui/icons-material/ShoppingBag";
 import AccountCircleIcon from "@mui/icons-material/AccountCircle";
 import MenuIcon from "@mui/icons-material/Menu";
-import logo from "../../Assets/logo.avif";
+import logo from "../../Assets/logo.jpg";
 
 export default function Navbar() {
   const theme = useTheme();
