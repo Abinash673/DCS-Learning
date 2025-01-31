@@ -11,7 +11,7 @@ import {
   useMediaQuery,
   useTheme,
 } from "@mui/material";
-import hero from "../../Assets/hero.avif";
+import hero from "../../assets/hero.avif";
 import { products, testimonials, socialLinks, images } from "../../Data/Data";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
