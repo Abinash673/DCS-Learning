@@ -1,0 +1,13 @@
+/* Reset default margins and paddings */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Ensure the body takes up the full height */
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+}
